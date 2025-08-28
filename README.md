@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yudi-corgi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- 
   // Show your github data statistics.
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudi-corgi)
